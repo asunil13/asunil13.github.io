@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0b7174b.css",
+    "main.js": "/static/js/main.8220fe82.js",
+    "static/js/488.15c117bb.chunk.js": "/static/js/488.15c117bb.chunk.js",
+    "static/media/research.pdf": "/static/media/research.8386a11558fd8a35954e.pdf",
+    "static/media/headshot.jpeg": "/static/media/headshot.72c94b542e8ab3420783.jpeg",
+    "static/media/datareport.pdf": "/static/media/datareport.0531d0b8a5eb9155a9fe.pdf",
+    "static/media/python.png": "/static/media/python.c44b9b809ebf766cbb4f.png",
+    "static/media/powerautomate.png": "/static/media/powerautomate.67b8b21ea16dd62359b2.png",
+    "static/media/kotlin.png": "/static/media/kotlin.859938b6e55d783ff094.png",
+    "static/media/Resume.pdf": "/static/media/Resume.d43ed43febbe7b47ad9c.pdf",
+    "static/media/figma.png": "/static/media/figma.457d844232d6cfe0f32b.png",
+    "static/media/sql.png": "/static/media/sql.c48e4dddf00a04f50233.png",
+    "static/media/git.png": "/static/media/git.8dd3688bb1415872d423.png",
+    "static/media/powerapps.png": "/static/media/powerapps.73af5075ee98a7be6484.png",
+    "static/media/r.png": "/static/media/r.86705b67ecef6ed19812.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo-s.png": "/static/media/logo-s.417266741643a274ff2e.png",
+    "static/media/powerbi.png": "/static/media/powerbi.48de42c1ecd7f72d44f3.png",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/java.webp": "/static/media/java.2ad736f544afeb32b9fe.webp",
+    "static/media/docker.webp": "/static/media/docker.e9b1fef8259ab479ee6e.webp",
+    "static/media/react-icon.svg": "/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "static/media/html-icon.svg": "/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/css-icon.svg": "/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "index.html": "/index.html",
+    "static/media/microsoft.webp": "/static/media/microsoft.68eee5940f3abcd5269e.webp",
+    "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "main.d0b7174b.css.map": "/static/css/main.d0b7174b.css.map",
+    "main.8220fe82.js.map": "/static/js/main.8220fe82.js.map",
+    "488.15c117bb.chunk.js.map": "/static/js/488.15c117bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0b7174b.css",
+    "static/js/main.8220fe82.js"
+  ]
+}
